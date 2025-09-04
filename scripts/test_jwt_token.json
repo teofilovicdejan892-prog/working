@@ -1,0 +1,14 @@
+{
+  "access_token": "p8fs_at_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3A4ZnMucGVyY29sYXRpb25sYWJzLmFpIiwic3ViIjoidGVzdGluZ0BwZXJjb2xhdGlvbmxhYnMuYWkiLCJhdWQiOlsicDhmcy1hcGkiXSwiZXhwIjoxNzU2Nzc0MDMyLCJpYXQiOjE3NTY3NzA0MzIsIm5iZiI6MTc1Njc3MDQzMiwianRpIjoiYXRfU2ZVRkx2Y3pLa1ktYWFjQXhVdm40QSIsInRlbmFudF9pZCI6InRlbmFudC1lZGMyNmVlNmRkNjNmMDBlIiwic2NvcGUiOiJyZWFkIHdyaXRlIHN5bmMiLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwiZGV2aWNlX2lkIjoiZGV2X3dSdzljTTRmcmpIalBuMVFURVBMd2ciLCJkZXZpY2VfdHlwZSI6ImRlc2t0b3AifQ.s4QZWa4Qj98CqtnsR1yOUzX526YTSqRry-NcNSpnKiMSQRc_vcH7-CMJFE9CYVYJnt7jW2DtGdYYs8NpVXaRPw",
+  "refresh_token": "p8fs_rt_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3A4ZnMucGVyY29sYXRpb25sYWJzLmFpIiwic3ViIjoidGVzdGluZ0BwZXJjb2xhdGlvbmxhYnMuYWkiLCJhdWQiOlsiY2xpZW50OnA4LW5vZGUtZGVza3RvcCJdLCJleHAiOjE3NTczNzUyMzIsImlhdCI6MTc1Njc3MDQzMiwibmJmIjoxNzU2NzcwNDMyLCJqdGkiOiJydF8wSkNCb3NzSFpESE94eVVqRDZRY1dBIiwidGVuYW50X2lkIjoidGVuYW50LWVkYzI2ZWU2ZGQ2M2YwMGUiLCJjbGllbnRfaWQiOiJwOC1ub2RlLWRlc2t0b3AiLCJ0b2tlbl90eXBlIjoicmVmcmVzaF90b2tlbiIsImRldmljZV9pZCI6ImRldl93Unc5Y000ZnJqSGpQbjFRVEVQTHdnIn0.4nMT1S7jCkdT9KgPMu-MmMfUeGMAZjaqydnp4s89cmTZ_mKLQef_lRtuBv60WJaTIdh7Q1UtSMO94fL6KOVdbQ",
+  "token_type": "Bearer",
+  "expires_in": 3600,
+  "tenant_id": "tenant-edc26ee6dd63f00e",
+  "created_at": "2025-09-01T16:47:12.714282",
+  "email": "testing@percolationlabs.ai",
+  "device_keys": {
+    "private_key_pem": "-----BEGIN PRIVATE KEY-----\nMC4CAQAwBQYDK2VwBCIEILhjzbJxRGuLx1IPO+PeXgY2rMtcNWYAiA5Sy/jzyzze\n-----END PRIVATE KEY-----\n",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEARF1HwWpE6bD0jnDknNsSffl67ZnD5scOEXCy3IP/Nlk=\n-----END PUBLIC KEY-----\n",
+    "public_key_b64": "RF1HwWpE6bD0jnDknNsSffl67ZnD5scOEXCy3IP/Nlk="
+  }
+}
